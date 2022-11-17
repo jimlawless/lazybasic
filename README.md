@@ -9,6 +9,10 @@ It only has a handful of commands.  I implemented what I needed to write a BASIC
 
 The variables are only of type int.  In fact, the only place where strings can be used is the PRINT statement.
 
+To run the example program ( twelve.bas ) use the variant of the following command-line that's appropriate for your OS:
+
+    lbas twelve.bas
+
 Here's a quick synopsis of the commands:
 
     END
