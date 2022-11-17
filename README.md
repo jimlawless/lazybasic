@@ -21,6 +21,9 @@ Here's a quick synopsis of the commands:
     REM
     Indicates that the line is a remark / comment.
 
+    PAUSE
+    Waits for ENTER to be pressed.
+
     PRINT
     Display variables and/or string literals separated by pipe | characters. Then display a newline.
     If a semicolon ; is an argument by itself, all other arguments are skipped and no newline is displayed.
