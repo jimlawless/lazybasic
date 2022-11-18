@@ -62,7 +62,7 @@ int main(int argc, char **argv)
         }
         
         if(line_ct > 0 ) {
-            if(i < line_nbr[line_ct-1]) {
+            if(i <= line_nbr[line_ct-1]) {
                 fprintf(stderr,"Invalid line number / line number out of sequence: %d %s\n",i,strtok(NULL,"\n"));
                 exit(1);
             }
