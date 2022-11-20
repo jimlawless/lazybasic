@@ -5,7 +5,7 @@
 // jimbo@radiks.net  http://jiml.us
 // See https://jiml.us/license2022.htm
 //
-// To build, use the following MinGW command:
+// To build, use the following GCC command:
 //    gcc  lbas.c -o lbas.exe
 #include <stdio.h>
 #include <string.h>
