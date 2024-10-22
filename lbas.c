@@ -2,8 +2,7 @@
 // by Jim Lawless
 // License: MIT / X11
 // Copyright (c) 2022 by James K. Lawless
-// jimbo@radiks.net  http://jiml.us
-// See https://jiml.us/license2022.htm
+// jimbo@radiks.net 
 //
 // To build, use the following GCC command:
 //    gcc  lbas.c -o lbas.exe
